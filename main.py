@@ -9,6 +9,7 @@ def main():
         print("1. Login")
         print("2. Migrate Database")
         print("3. Exit")
+        #Git pull example
         
         choice = input("Enter your choice: ")
         
