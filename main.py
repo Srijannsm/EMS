@@ -10,6 +10,7 @@ def main():
         print("2. Migrate Database")
         print("3. Exit")
         #Git pull example
+        #Git pull example 2
         
         choice = input("Enter your choice: ")
         
